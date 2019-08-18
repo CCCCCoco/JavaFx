@@ -1,2 +1,3 @@
 # JavaFx
-JavaFx
+### JavaFx配置
+---
